@@ -11,8 +11,6 @@ This project was part of the Web Programming Course. It is a simple car-selling 
 - **Contact Form:** Each car's page has a button redirecting users to a contact form if they want to contact the seller.
 - **Navigation:** Navbar and footer on each page with buttons for easy navigation.
 
-# Usage
-
 ## Home Page
 
 - View all available cars and use the search and filter options.
